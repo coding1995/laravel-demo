@@ -1,0 +1,20 @@
+#pages li{
+
+	    position: relative;
+	    display: block;
+	    padding: .5em 1em;
+	    text-decoration: none;
+	    line-height: 1.2;
+	    background-color: #fff;
+	    border: 1px solid #ddd;
+	    border-radius: 0;
+	    margin-bottom: 5px;
+	    margin-right: 5px;
+	    float:left
+	}
+
+	#pages .active{
+	    background: #23abf0;
+	    border: 1px solid #23abf0;
+	    padding: 9px 16px;
+	}
